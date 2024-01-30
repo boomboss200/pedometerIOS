@@ -52,7 +52,7 @@ The Pedometer App is an iOS application designed to track and display step count
 
 For any inquiries, please contact [mail@behzakhadim.com](mailto:mail@behzadkhadim.com).
 
-## Author
+## Demo
 
-[Behzad](https://github.com/boomboss200)
+[Click to Watch Demo Videol ](https://behzadkhadim.com/watkins.html)
 ```
