@@ -16,7 +16,7 @@ The Pedometer App is an iOS application designed to track and display step count
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pedometer-app.git
+   git clone https://github.com/boomboss200/pedometerIOS.git
    ```
 
 2. Open the project in Xcode.
@@ -27,7 +27,7 @@ The Pedometer App is an iOS application designed to track and display step count
 
 - Xcode 13.0+
 - Swift 5.5+
-- iOS 14.0+
+- iOS 15.5+
 
 ## Dependencies
 
